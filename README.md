@@ -12,4 +12,6 @@ The function is memoized with useCallback.
 import { useRerender } from 'use-rerender2';
 
 const rerender = useRerender();
+// . . .
+rerender();
 ```
