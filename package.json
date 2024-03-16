@@ -1,0 +1,31 @@
+{
+  "name": "use-rerender2",
+  "version": "0.0.0",
+  "author": "https://github.com/ts-web/",
+  "license": "ISC",
+  "main": "lib/useRerender.js",
+  "description": "React hook to force a component rerender",
+  "keywords": [
+    "react hook",
+    "rerender"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ts-web/use-rerender2.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepack": "npm run build"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "react": "^18",
+    "typescript": "^5"
+  },
+  "files": [
+    "lib"
+  ]
+}
