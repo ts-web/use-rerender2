@@ -1,6 +1,6 @@
 {
   "name": "use-rerender2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "https://github.com/ts-web/",
   "license": "ISC",
   "main": "lib/useRerender.js",
