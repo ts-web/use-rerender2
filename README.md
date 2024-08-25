@@ -1,5 +1,7 @@
 [![npm version](https://img.shields.io/npm/v/use-rerender2.svg)](https://www.npmjs.com/package/use-rerender2)
 [![Downloads](https://img.shields.io/npm/dm/use-rerender2.svg)](https://www.npmjs.com/package/use-rerender2)
+![Uses TypeScript](https://img.shields.io/badge/Uses-Typescript-294E80.svg)
+
 
 # use-rerender2
 
