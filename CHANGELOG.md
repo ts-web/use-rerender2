@@ -1,5 +1,8 @@
-# 1.0.3
+# 1.0.4
 - No changes. First GH Actions publish.
+
+# 1.0.3
+- Bad publish -- missing wrong tsup config.
 
 # 1.0.2
 - Republish
